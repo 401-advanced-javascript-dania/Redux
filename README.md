@@ -7,7 +7,7 @@
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/401-advanced-javascript-dania/Redux/pull/1)
 
 
 ### Setup
