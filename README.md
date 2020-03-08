@@ -28,4 +28,4 @@ non
 #### UML
 
 Link to an image of the UML for your application and response to events
-- [UML]()
+- [UML](https://github.com/401-advanced-javascript-dania/Redux/blob/lab36/IMG_20200309_005604.jpg)
